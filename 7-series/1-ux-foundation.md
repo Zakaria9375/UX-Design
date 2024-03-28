@@ -25,7 +25,7 @@ About ux research
 
 ### Product Development Life Cycle
 
-![pdlc](../images/pdlc.png)
+![pdlc](../images/1/pdlc.png)
 
 ### Characteristics of good user experience
 
@@ -64,7 +64,7 @@ Business parameters typically describe
 
 ### **Design thinking**
 
-![design thinking](../images/dt.png)
+![design thinking](../images/1/dt.png)
 
 - **Empathize**
 
